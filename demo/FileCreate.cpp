@@ -26,5 +26,6 @@ int main()
         cerr << "Error: Unable to open file." << endl;
     }
 
+    cout << "Thanks for using S.A.G.E";
     return 0;
 }
